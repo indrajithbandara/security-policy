@@ -1,7 +1,7 @@
 # security-policy
 Open source security policy 
 
-All files in this repository in GPL version 2.0 or higher
+All files in this repository in GNU Free Documentation License
 
 Author - Eugene Lityushkin 2014
 
